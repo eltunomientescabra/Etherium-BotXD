@@ -132,4 +132,4 @@ client.giveawaysManager = new GiveawaysManager(client, {
 
 
 
-client.login(token);
+client.login("OTQ2ODg0Mjg5NjE2ODE4MjA2.GeNbHx.lEOVyQPbTvy68QI8YKzelGAtt33JyDi5-hqNxM");
